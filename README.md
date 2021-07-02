@@ -1,2 +1,2 @@
 # Cse-20
-  Introduction to Computi Introduction to Computin 
+  Introduction to Computing
